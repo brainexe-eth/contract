@@ -70,8 +70,8 @@ npx hardhat compile
 # Run tests
 npx hardhat test
 
-# Deploy to Sepolia
-npx hardhat run scripts/deploy.js --network sepolia
+# Deploy to Mainnet
+npx hardhat run scripts/deploy.js --network mainnet
 ```
 
 ## Networks
